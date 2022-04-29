@@ -17,6 +17,8 @@ If you want to use a 5V module you have to add a "Logic Level Converter 8 Channe
 | MOSI          | 11            | 5             | Orange      |
 | MISO          | 12            | 4             | Green       |
 | SCK           | 13            | 3             | Blue        |
+| 3.3V          |               | 2             | Red         |
+| GND           |               | 1             | Black       |
 
 ![TopView](TopView.jpg)
 ![BottomView](BottomView.jpg)
